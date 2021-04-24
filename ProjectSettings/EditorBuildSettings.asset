@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AR_Bewegte_Bilder.unity
+    guid: 9d11760acada21747861fda505eb96b1
   m_configObjects: {}
